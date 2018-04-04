@@ -1,2 +1,11 @@
 # hearthstone_cards_named
-Images of collectible Hearthstone cards. Files grouped by expansions and classes.
+
+This repository contains images of collectible Hearthstone cards.
+
+It is result of Lua script which uses images from `Chris Schmidt's` [hearthstone-card-images](https://github.com/schmich/hearthstone-card-images) and card descriptions from [HearthSim](https://github.com/HearthSim/hsdata) project.
+
+Files grouped by expansions and classes.
+
+I'm going to release script in future in another repository.
+
+Actualizaed at 2018-03-04.
