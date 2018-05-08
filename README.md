@@ -8,4 +8,4 @@ Files grouped by expansions and classes.
 
 I'm going to release script in future in another repository.
 
-Actualized at 2018-04-26.
+Actualized at 2018-04-26 (Witchwood expansion).
