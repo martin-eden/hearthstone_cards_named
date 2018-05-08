@@ -1,4 +1,4 @@
-# hearthstone_cards_named
+# Hearthstone card images. Named
 
 This repository contains images of collectible Hearthstone cards.
 
@@ -6,6 +6,6 @@ It is result of Lua script which uses images from `Chris Schmich's` [hearthstone
 
 Files grouped by expansions and classes.
 
-I'm going to release script in future in another repository.
+You can get bash/Lua scripts to reproduce these results from [hearthstone_cards_renamer](https://github.com/martin-eden/hearthstone_cards_renamer) repository.
 
 Actualized at 2018-04-26 (Witchwood expansion).
